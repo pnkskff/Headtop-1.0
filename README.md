@@ -56,7 +56,6 @@ II. NOTES:
   
      - For more info: https://docs.google.com/spreadsheets/d/1zXoYlAUurkx-cZh5hKhAX16l0ibWXopTF6MKmXKOWKI/edit?usp=sharing
   
-
   5. NPM's installed:
 
      - Express: https://www.npmjs.com/package/express
@@ -76,6 +75,18 @@ II. NOTES:
      - Morgan: https://www.npmjs.com/package/morgan
      
      - v-Calendar: https://www.npmjs.com/package/v-calendar
+     
+     - Cloudinary: https://www.npmjs.com/package/cloudinary
+     
+     - Multer: https://www.npmjs.com/package/multer
+     
+     - CKEditor5: https://www.npmjs.com/package/ckeditor5
+     
+     - Share URL: https://www.npmjs.com/package/share-url
+     
+     - Export to CSV: https://www.npmjs.com/package/export-to-csv
+     
+     - Google Drive: https://www.npmjs.com/package/@googleapis/drive
 
 III. OPTIMIZATION:
 
