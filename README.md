@@ -2,11 +2,9 @@
 
 I. INTRO:
 
-  1. Headtop API url: http://headtop-api.herokuapp.com/
+  1. Headtop API url: 
   
-     a. API is hosted at: https://www.heroku.com/
-     
-        - Heroku is sunsetting Free Accounts on Nov. 2022.
+     a. API is hosted at: 
      
         - Need to host App on a different Server: 
      
@@ -22,7 +20,7 @@ I. INTRO:
           
           * Cyclic: https://www.cyclic.sh/
 
-  2. This is a CRUD App that at its most basic, allows a User to:
+  2. This is a Web App that at its most basic, allows a User to:
 
      a. Create a List.
 
@@ -34,27 +32,27 @@ II. NOTES:
 
   1. Built with CSS/JS and EJS Templating Language, along with Node.js Environment and Express.js Framework:
   
-     https://nodejs.org/en/
+     URL: https://nodejs.org/en/
      
-     https://expressjs.com/
+     URL: https://expressjs.com/
   
   2. In the future, may transition to bulding with Bun JS Environment:
   
-     https://bun.sh/
+     URL: https://bun.sh/
      
   3. For further Styling/Templating, may transition to building with React, Bootstrap or Tailwind/DaisyUI: 
      
-     https://reactjs.org/
+     URL: https://reactjs.org/
      
-     https://www.react.express/
+     URL: https://www.react.express/
      
-     https://getbootstrap.com/
+     URL: https://getbootstrap.com/
      
-     https://tailwindcss.com/
+     URL: https://tailwindcss.com/
      
-     https://daisyui.com/
+     URL: https://daisyui.com/
   
-  4. M.V.C. architecture is not used for this App yet.
+  4. M.V.C. architecture is used for this App.
   
      - For more info: https://docs.google.com/spreadsheets/d/1zXoYlAUurkx-cZh5hKhAX16l0ibWXopTF6MKmXKOWKI/edit?usp=sharing
 
