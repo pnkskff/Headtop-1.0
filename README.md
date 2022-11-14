@@ -55,6 +55,25 @@ II. NOTES:
   4. M.V.C. architecture is used for this App.
   
      - For more info: https://docs.google.com/spreadsheets/d/1zXoYlAUurkx-cZh5hKhAX16l0ibWXopTF6MKmXKOWKI/edit?usp=sharing
+  
+
+  5. NPM's installed:
+
+     - Express: https://www.npmjs.com/package/express
+      
+     - Mongoose: https://www.npmjs.com/package/mongoose
+      
+     - Passport: https://www.npmjs.com/package/passport
+      
+     - Express-Session: https://www.npmjs.com/package/express-session
+      
+     - Connect-Mongo: https://www.npmjs.com/package/connect-mongo
+      
+     - Method-Override: https://www.npmjs.com/package/method-override
+      
+     - Express-Flash: https://www.npmjs.com/package/express-flash
+      
+     - Morgan: https://www.npmjs.com/package/morgan
 
 III. OPTIMIZATION:
 
