@@ -74,6 +74,8 @@ II. NOTES:
      - Express-Flash: https://www.npmjs.com/package/express-flash
       
      - Morgan: https://www.npmjs.com/package/morgan
+     
+     - v-Calendar: https://www.npmjs.com/package/v-calendar
 
 III. OPTIMIZATION:
 
@@ -153,7 +155,7 @@ IV: AUDIT/UPDATE TOOLS:
 
 V. FURTHER INFO:
 
-   1. Readme last updated on: OCTOBER 2022
+   1. Readme last updated on: NOVEMBER 2022
 
    2. Authors:
 
