@@ -27,6 +27,10 @@ I. INTRO:
      b. Vote on importance of Items in the List, with Sort set to display Most Important/Liked first.
 
      c. Vote on Dislike of Items in the List, Dislikes do not affect Sort as this App is more about what is Important to User, and not what User Likes/Dislikes.
+     
+  3. To view Headtop Version 0, please see;
+
+     URL: https://github.com/pnkskff/Headtop
 
 II. NOTES:
 
